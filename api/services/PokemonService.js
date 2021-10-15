@@ -21,7 +21,6 @@ class PokemonService {
     }
 
     static atualizarPokemon(id, pokemon) {
-        console.log("req.body " + pokemon)
         try {
             const pokemonEncontrado = pokemonsMockado.pokemons.filter(result => result.Id == id)
 /*            pokemonEncontrado.map(result => {
