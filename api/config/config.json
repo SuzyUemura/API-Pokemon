@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nodejs",
+    "password": "Patodonald.10",
+    "database": "pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "nodejs",
+    "password": "Patodonald.10",
+    "database": "pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "nodejs",
+    "password": "Patodonald.10",
+    "database": "pokemon",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
